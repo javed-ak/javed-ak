@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javed Akhtar</h1>
-<h3 align="center">I'm a passionate software engineer with a strong background in computer science and extensive experience in Full Stack development.</h3>
+<h3 align="center">I'm Passionate Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). Equipped with the skills to build and manage both front-end and back-end components of web applications. Eager to apply my understanding of modern development practices and technologies to real-world projects. Quick learner with a passion for problem-solving and improving user experiences. Ready to contribute and grow in a dynamic development environment.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=javed-ak&label=Profile%20views&color=0e75b6&style=flat" alt="javed-ak" /> </p>
  -->

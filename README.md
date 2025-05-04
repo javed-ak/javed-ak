@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://twitter.com/javed__ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javed__ak" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/javed-ak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="javed__ak" height="30" width="40" /></a>
- <a href="https://instagram.com/javed_.ak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="javed__ak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

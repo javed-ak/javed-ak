@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, React, MongoDB, NodeJs**
 
-- 📫 How to reach me **contact.javedak@gmail.com**
+- 📫 How to reach me **javedakhtarsofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

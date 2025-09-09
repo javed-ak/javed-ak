@@ -56,7 +56,7 @@ I'm a passionate Full Stack Developer with over 2 years of experience specializi
 
 Here are some of the projects I've worked on recently:
 
-- [Chat Application](https://github.com/javed-ak/chat-app): A real-time anonymous chat application built with the MERN stack where messages disappear after 5 minutes. No sign-up required, with guest names and smooth UX.
+- [Chat Application](https://github.com/javed-ak/live-chat-app.git): A real-time anonymous chat application built with the MERN stack where messages disappear after 5 minutes. No sign-up required, with guest names and smooth UX.
 - [Professional Networking Platform](https://github.com/javed-ak/ConnectWorld.git): A LinkedIn-like platform built for learning purposes, enabling users to register, post updates, manage profiles, and connect with others.
 - [Gmail-like Mailbox Application](https://github.com/javed-ak/mailbox-app): A modern email client interface built with React, TypeScript, and Tailwind CSS supporting multi-folder management, real-time search, batch actions, and responsive design.
 Feel free to explore these projects to see my work in action.

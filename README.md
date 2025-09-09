@@ -1,37 +1,77 @@
 <h1 align="center">Hi 👋, I'm Javed Akhtar</h1>
-<p align="justify" >I'm Passionate Full Stack Developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js). Equipped with the skills to build and manage both front-end and back-end components of web applications. Eager to apply my understanding of modern development practices and technologies to real-world projects. Quick learner with a passion for problem-solving and improving user experiences. Ready to contribute and grow in a dynamic development environment.</p>
+<h3 align="center">Full Stack Developer | MERN Stack Specialist | Problem Solver</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=javed-ak&label=Profile%20views&color=0e75b6&style=flat" alt="javed-ak" /> </p> -->
-<p align="left"> <a href="https://twitter.com/javed__ak" target="blank"><img src="https://img.shields.io/twitter/follow/javed__ak?logo=twitter&style=for-the-badge" alt="javed__ak" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack (MERN) Development**
-
-- 💬 Ask me about **JavaScript, TypeScript, React, MongoDB, NodeJs**
-
-- 📫 How to reach me **javedakhtarsofficial@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/javed__ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javed__ak" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/javed-ak" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="javed__ak" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/javed-ak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/javed__ak" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="mailto:contact.javedak@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p> 
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
+---
 
+### 👨‍💻 About Me
+
+I'm a passionate Full Stack Developer with over 2 years of experience specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). I excel at building scalable, high-performance web applications, managing both front-end and back-end components. With a keen eye for detail and a commitment to clean code, I strive to create seamless user experiences and efficient solutions.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+
+- JavaScript, TypeScript
+- React.js, Node.js, Express.js
+- HTML5, CSS3, Tailwind CSS
+
+**Databases:**
+
+- MongoDB, PostgreSQL, MySQL
+
+**Tools & Version Control:**
+
+- Git, GitHub, Docker
+- VS Code, Postman
+
+---
+
+### 📈 GitHub Stats
+
+![Javed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javed-ak&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+### 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javed-ak&layout=compact&theme=radical)
+
+---
+
+### 🧩 Projects
+
+Here are some of the projects I've worked on recently:
+
+- [Chat Application](https://github.com/javed-ak/chat-app): A real-time anonymous chat application built with the MERN stack where messages disappear after 5 minutes. No sign-up required, with guest names and smooth UX.
+- [Professional Networking Platform](https://github.com/javed-ak/connect-world): A LinkedIn-like platform built for learning purposes, enabling users to register, post updates, manage profiles, and connect with others.
+- [Gmail-like Mailbox Application](https://github.com/javed-ak/mailbox-app): A modern email client interface built with React, TypeScript, and Tailwind CSS supporting multi-folder management, real-time search, batch actions, and responsive design.
+Feel free to explore these projects to see my work in action.
+
+---
+
+### 📫 Get in Touch
+
+I'm always open to collaborating on innovative projects and discussing new opportunities. You can reach me at:
+
+- Email: [contact.javedak@gmail.com](mailto:contact.javedak@gmail.com)
+- LinkedIn: [linkedin.com/in/javed-ak](https://www.linkedin.com/in/javed-ak)
+- Twitter: [@javed__ak](https://twitter.com/javed__ak)
+
+Let's connect and build something amazing together!
+
+---
 
